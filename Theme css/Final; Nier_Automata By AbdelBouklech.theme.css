@@ -24,8 +24,8 @@ Changelog: https://git.io/v6r5N (Look this from Zerthox)
 ============== CUSTOMIZABLE COLORS ===============
 */
 :root {
-	--main-color: #c2ae65;
-	--hover-color: #4f4426;
+	--main-color: #C8C8C8;
+	--hover-color: #990000;
     --background-blur: 0px;
     --background-brightness: 100%;
 }
@@ -46,7 +46,7 @@ body::after,
 .invite-modal .invite-splash,
 .radio-theme.light label,
 .radio-theme.dark label{
-    background-image: url(https://cloud.githubusercontent.com/assets/25139140/22176589/4db97a20-e00e-11e6-8317-4ac3f7a9da04.jpg) !important; /* IMPORTANT: Link must be HTTP! */
+    background-image: url(https://cdn.discordapp.com/attachments/280125778761613313/315331157308866561/Krul-Tepes-Edit-riku114-39428186-500-281.png) !important; /* IMPORTANT: Link must be HTTP! */
 }
 /*
 --------------------------------------------------------------------------------------------------------------------------------------------
